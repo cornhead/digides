@@ -14,7 +14,8 @@ articles = \
 
 beamers = \
 	digides_formelsammlung\
-	adm_formelsammlung
+	adm_formelsammlung\
+	ezs_formelsammlung
 	
 
 .PHONY: all
